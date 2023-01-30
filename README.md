@@ -3,7 +3,7 @@ Trinity-Net: Gradient-Guided Swin Transformer-based Remote Sensing Image Dehazin
 This is the code of the implementation of the Trinity-Net.
 
 # Requirement
-ubuntu, TensorFlow 1.x, keras==2.3.1, numpy==1.16.1.
+ubuntu, torch==1.8.1+cu111, torchvision==0.9.1+cu111, tensorboardX==2.5.1.
 
 # Testing
 1. Download the checkpoint from Baidu Cloud: https://pan.baidu.com/s/1cCPWxGtRCEEEStynMWK0AQ?pwd=1004 key: 1004 or Google Drive: https://drive.google.com/file/d/1QMmvPohnLgqDZ5A3wZ7SlGHPN3r4WzK1/view?usp=sharing and put it in FPGAN folder.
