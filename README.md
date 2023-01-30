@@ -11,7 +11,7 @@ ubuntu, torch==1.8.1+cu111, torchvision==0.9.1+cu111, tensorboardX==2.5.1.
 3. Python Enh_train.py
 
 # Testing
-1. Put the testing data to corresponding folders (hazy image to ./data/test_data/input, GT to ./data/test_data/target, GT for full-reference evaluation, such as PSNR and SSIM.)
+1. Put the testing data to corresponding folders (hazy image to ./data/test_data/input, GT to ./data/test_data/target, GT for full-reference evaluation, such as PSNR and SSIM)
 2. Python Enh_eval.py
 3. Find the result in corresponding folder (./checkpoints/XX/test_results)
 
