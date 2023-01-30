@@ -15,7 +15,10 @@ ubuntu, torch==1.8.1+cu111, torchvision==0.9.1+cu111, tensorboardX==2.5.1.
 2. Python Enh_eval.py
 3. Find the result in corresponding folder (./checkpoints/XX/test_results).
 
-# Underwater Image Dehazing Benchmark (UIDB)
+# Remote Sensing Image Dehazing Dataset (RSID)
+Download UIDB from Baidu Cloud: https://pan.baidu.com/s/1x085oHJ_o1MlKCB1ktVXlg?pwd=1004 key: 1004 or Google Drive: https://drive.google.com/file/d/1uYyav5fBGdJcZ1XsxdMqXTFwdc-6E82V/view?usp=sharing
+
+# Natural Image Dehazing Dataset (NID)
 Download UIDB from Baidu Cloud: https://pan.baidu.com/s/1x085oHJ_o1MlKCB1ktVXlg?pwd=1004 key: 1004 or Google Drive: https://drive.google.com/file/d/1uYyav5fBGdJcZ1XsxdMqXTFwdc-6E82V/view?usp=sharing
 
 # Contact Us
