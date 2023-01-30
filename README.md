@@ -19,7 +19,7 @@ ubuntu, torch==1.8.1+cu111, torchvision==0.9.1+cu111, tensorboardX==2.5.1.
 Download RSID from Baidu Cloud: https://pan.baidu.com/s/1zzk1KiKJHnZPHg4BV5U7dA?pwd=1004 key: 1004 or Google Drive: https://drive.google.com/file/d/1FC7oSkGTthjHl2sKN-yGrKhssgV0QB4F/view?usp=sharing
 
 # Natural Image Dehazing Dataset (NID)
-Download NID from Baidu Cloud: https://pan.baidu.com/s/1x085oHJ_o1MlKCB1ktVXlg?pwd=1004 key: 1004 or Google Drive: https://drive.google.com/file/d/1uYyav5fBGdJcZ1XsxdMqXTFwdc-6E82V/view?usp=sharing
+Download NID from Baidu Cloud: https://pan.baidu.com/s/1bvXiWE3kVH_xhISL_SJ6xA?pwd=1004 key: 1004 or Google Drive: https://drive.google.com/file/d/1uYyav5fBGdJcZ1XsxdMqXTFwdc-6E82V/view?usp=sharing
 
 # Contact Us
 If you have any questions, please contact us (chikaichen@mail.nwpu.edu.cn).
