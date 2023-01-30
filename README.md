@@ -13,7 +13,7 @@ ubuntu, torch==1.8.1+cu111, torchvision==0.9.1+cu111, tensorboardX==2.5.1.
 # Testing
 1. Put the testing data to corresponding folders (hazy image to ./data/test_data/input, GT to ./data/test_data/target, GT for full-reference evaluation, such as PSNR and SSIM.)
 2. Python Enh_eval.py
-3. Find the result in corresponding folder (./checkpoints/XX/test_results).
+3. Find the result in corresponding folder (./checkpoints/XX/test_results)
 
 # Remote Sensing Image Dehazing Dataset (RSID)
 Download UIDB from Baidu Cloud: https://pan.baidu.com/s/1x085oHJ_o1MlKCB1ktVXlg?pwd=1004 key: 1004 or Google Drive: https://drive.google.com/file/d/1uYyav5fBGdJcZ1XsxdMqXTFwdc-6E82V/view?usp=sharing
