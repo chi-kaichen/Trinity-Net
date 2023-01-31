@@ -1,6 +1,7 @@
 # Trinity-Net
 Trinity-Net: Gradient-Guided Swin Transformer-based Remote Sensing Image Dehazing and Beyond.
 This is the code of the implementation of the Trinity-Net.
+Download code from Baidu Cloud: https://pan.baidu.com/s/1uz4fInYLAzbqhN2nqgQznA?pwd=1004 key: 1004 or Google Drive: https://drive.google.com/file/d/1CMjoDwt8xMjZ5wpjvNnWoY5Cf9XZmQH5/view?usp=sharing
 
 # Requirement
 ubuntu, torch==1.8.1+cu111, torchvision==0.9.1+cu111, tensorboardX==2.5.1.
